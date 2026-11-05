@@ -1,0 +1,40 @@
+.MateriasBody{
+    margin: 45px;
+}
+
+.Title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.MateriaWritter{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.lide{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.MateriaBody{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.MateriasPhotos{
+    border: 5px solid black;
+    border-radius: 15px;
+    width: 450px;
+    height: 450px;
+    max-width: 100%;
+    height: auto;
+}
+
+.PhotoCaption{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
